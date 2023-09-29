@@ -1,0 +1,258 @@
+*{
+    margin: 0;
+    text-decoration: none;
+}
+.top{
+    background-color: #5FA71F;
+    position: relative;
+    height: 742px;
+}
+.top-cloud{
+    position: absolute;
+    margin-left: 829px;
+    margin-top: 50px;
+}
+.name{
+    font-family: 'Sacramento', cursive;
+    color: #2c786c;
+    margin-top: 129PX;
+    margin-left: 536px;
+    font-size: 60px;
+}
+.programmer{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #2c786c;
+    font-weight: bold;
+    padding-bottom: 10px;
+    margin-left: 590px;
+    margin-top: 16px;
+}
+.bottom-cloud{
+    position: absolute;
+    margin-left: 348px;
+    margin-top: 50px;
+}
+.mountain{
+    position: absolute;
+    margin-left: 473px;
+    margin-top: 50px;
+}
+.myimg{
+    
+    position: absolute;
+    border-radius: 50%;
+    margin-left: 677px;
+    width: 200px;
+    height: 192px;
+
+}
+.hello{
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 73px;
+    color: #2c786c;
+    font-weight: normal;
+    padding-bottom: 10px;
+    margin-top: 200px;
+    margin-left: 675px;
+}
+
+.skills{ 
+    position: absolute;
+    font-family:'Sacramento', cursive;
+    font-size: 2.5rem;
+    color: #2c786c;
+    font-weight: normal;
+    padding-bottom: 10px;
+    margin-top: 707px;
+    margin-left: 585px;
+    font-size: 60px;
+}
+.intro{
+    position: absolute;
+    text-align: center;
+    margin-top: 341px;
+    margin-left: 384px;
+    font-size: 26px;
+    line-height: 2;
+    width: 50%;
+    color: #40514E;
+}
+
+.a1{
+    float: right;
+    margin-top: 889px;
+    margin-right:337px;
+    width: 219px;
+    height: 207px;
+}
+.a2{
+
+    position: absolute;
+    margin-top: 874px;
+    margin-left: 299px;
+    font-size: 27.72px;
+    font-weight: bold;
+    color: #11999E;
+   
+}
+.a3{ position: absolute;
+    text-align: left;
+    margin-top: 936px;
+    margin-left: 308px;
+    font-size: 26px;
+    line-height: 2;
+    width: 39%;
+    color: #40514E;}
+
+.b1{
+        float: right;
+        margin-top: 1274px;
+        margin-right: -345px;
+        width: 219px;
+        height: 207px;
+   }
+.b2{
+
+    position: absolute;
+    margin-top: 1259px;
+    margin-left: 443px;
+    font-size: 27.72px;
+    font-weight: bold;
+    color: #11999E;
+   
+}
+.b3{ position: absolute;
+    text-align: left;
+    margin-top: 1300px;
+    margin-left: 446px;
+    font-size: 26px;
+    line-height: 2;
+    width: 35%;
+    color: #40514E;}
+.c1{
+        float: left;
+        margin-top: 1643px;
+        margin-left: 425px;
+        width: 219px;
+        height: 207px;
+   }
+.c2{
+
+    position: absolute;
+    margin-top: 1615px;
+    margin-left: 700px;
+    font-size: 27.72px;
+    font-weight: bold;
+    color: #11999E;
+   
+}
+.c3{ position: absolute;
+    text-align: left;
+    margin-top: 1648px;
+    margin-left: 636px;
+    font-size: 26px;
+    line-height: 2;
+    width: 35%;
+    color: #40514E;}
+.touch{
+    position: absolute;
+    margin-top: 2122px;
+    margin-left: 677px;
+    color: #2c786c;
+    text-align: center;
+    font-size: 50px;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+.t{ position: absolute;
+    margin-top: 2222px;
+    margin-left: 475px;
+    font-size: 24.72px;
+    font-weight: bold;
+    color: #11999E;
+}
+.t1{ position: absolute;
+    text-align: center;
+    margin-top: 2287px;
+    margin-left: 544px;
+    font-size: 26px;
+    line-height: 2;
+    width: 35%;
+    color: #40514E;
+}
+.contact{
+    position: absolute;
+    font-size:15px;
+    font-family:Arial;
+    width:173px;
+    height:59px;
+    border-width:1px;
+    color:hwb(0 100% 0%);
+    border-color: #11999E;
+    font-weight:bold;
+    border-top-left-radius:28px;
+    border-top-right-radius:28px;
+    border-bottom-left-radius:28px;
+    border-bottom-right-radius:28px;
+    text-shadow: 1px 1px 0px #2f6627;
+    background: #11999E;
+    margin-top: 2558px;
+    margin-left: 44px;
+
+  }
+  
+  .contact:hover {
+    background:  #11999E;
+    color: #40514E;
+  }
+                
+.bottom{ 
+    position: relative;
+    margin-top: 2678px;
+    height: 211px;
+    background-color: #66BFBF;
+
+}
+.footer1{
+    position: absolute;
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+    color: #11999E;
+    margin-top: 55px;
+    margin-left: 534px;
+}
+.footer1:hover{
+    color: black;
+}
+.footer2{
+    position: absolute;
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+    color: #11999E;
+    margin-top: 55px;
+    margin-left: 686px;
+}
+.footer2:hover{
+    color: black;
+}
+.footer3{
+    position: absolute;
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+    color: #11999E;
+    margin-top: 55px;
+    margin-left: 824px;
+}
+.footer3:hover{
+    color: black;
+}
+.copyright{
+    position: absolute;
+    color: #fff;
+    margin-top: 159px;
+    margin-left: 607px;
+}
+
